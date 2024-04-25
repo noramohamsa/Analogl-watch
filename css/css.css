@@ -12,6 +12,11 @@
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
 }
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color:blue;
+    text-align: center;
+}
 .center{
     width:7px;
     height:7px;
